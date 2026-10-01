@@ -1,5 +1,7 @@
 # 💶💱 Exchange-RateAPI Currency Agent (A2A + ADK + MCP)
 
+> **Exchange Rate API is now **AllRatesToday**.** This package keeps working against `exchange-rateapi.com`, but it is no longer updated. For new projects use the AllRatesToday SDKs and docs at [github.com/AllRates-Today](https://github.com/AllRates-Today) — the same real-time API plus official rates from 121 central banks. Docs: [allratestoday.com/docs](https://allratestoday.com/docs/).
+
 [![CI](https://github.com/Exchange-RateAPI/currency-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Exchange-RateAPI/currency-agent/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
